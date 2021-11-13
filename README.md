@@ -15,7 +15,7 @@
 
 - BaseUrl
 ```
-https://alexwohlbruck.github.io/cat-facts/
+https://cat-fact.herokuapp.com
 ```
 
 
