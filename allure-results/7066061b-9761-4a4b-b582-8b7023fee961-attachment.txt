@@ -1,0 +1,37 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v5.3.20210902]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @13-11-2021 13:16:26.0081 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @13-11-2021 13:16:26.0339 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @13-11-2021 13:16:26.0347 PM
+[ReportManager] Successfully Opened Google Chrome. @13-11-2021 13:16:32.0026 PM
+[ReportManager] Target URL: [https://www.google.com.eg/] @13-11-2021 13:16:32.0077 PM
+[ReportManager] Initial URL: [data:,] @13-11-2021 13:16:32.0171 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211113-131623", Target File: "\1636802195801_setup.gif"]. @13-11-2021 13:16:36.0769 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.google.com.eg/]. @13-11-2021 13:16:37.0969 PM
+[ReportManager] Successfully loaded the following test data file [C:\Users\Abdelhamed\eclipse-workspace\Shaft3/data/googleData.xlsx]. @13-11-2021 13:16:41.0626 PM
+[ReportManager] Successfully created attachment [Test Data - Excel] @13-11-2021 13:16:41.0636 PM
+[ReportManager] Successfully created attachment [Animated Gif - setup] @13-11-2021 13:16:41.0640 PM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[GoogleTest.GoogleTest.checkThirdResult]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211113-131623", Target File: "\1636802203742_checkThirdResult.gif"]. @13-11-2021 13:16:43.0876 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [selenium webdriver]. @13-11-2021 13:16:44.0501 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [selenium webdriver download]. @13-11-2021 13:16:45.0207 PM
+[ReportManager] Assertion [ValidateEquals] FAILED. Expected [What is Selenium WebDriver?] and Actual [selenium webdriver download]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @13-11-2021 13:16:45.0239 PM
+[ReportManager] Successfully created attachment [Animated Gif - checkThirdResult] @13-11-2021 13:16:45.0264 PM
+[ReportManager] Successfully created attachment [Video Recording - tearDown] @13-11-2021 13:16:52.0677 PM
+[ReportManager] Browser Action [CloseCurrentWindow] successfully performed. @13-11-2021 13:16:53.0321 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - CloseCurrentWindow - Actual Value] @13-11-2021 13:16:53.0349 PM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @13-11-2021 13:16:55.0711 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v5.3.20210902]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

@@ -1,0 +1,10 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[GoogleTest.GoogleTest.checkThirdResult]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211113-131623", Target File: "\1636802203742_checkThirdResult.gif"]. @13-11-2021 13:16:43.0876 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [selenium webdriver]. @13-11-2021 13:16:44.0501 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [selenium webdriver download]. @13-11-2021 13:16:45.0207 PM
+[ReportManager] Assertion [ValidateEquals] FAILED. Expected [What is Selenium WebDriver?] and Actual [selenium webdriver download]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @13-11-2021 13:16:45.0239 PM
+[ReportManager] Successfully created attachment [Animated Gif - checkThirdResult] @13-11-2021 13:16:45.0264 PM
